@@ -8,5 +8,5 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 gems:
 - jekyll-feed
-baseurl: "/archiv.sharaal.de"
+baseurl: ""
 url: "http://archiv.sharaal.de"
